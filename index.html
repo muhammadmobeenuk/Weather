@@ -1,2 +1,33 @@
-Hello Wrold
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather_Layout</title>
+    <link rel="stylesheet" href="/Weather_Layout/style.css">
+</head>
+<body>
+    <video src="/coverr-cloudy-sunset-near-the-coastline-7150-1080p.mp4" id="video" controls autoplay></video>
+    <label for="video" ></label>
+    <div class="container">
+        <span><h1>Weather Layout</h1></span>
+        <form>
+            <input type="text" id="city_input" placeholder="Enter City Name">
+            <input type="submit" value="Get Weather">
+        </form>
+    <div id="Weather_data">
+        <div class="icon">
+            <!-- <img src="http://openweathermap.org/img/wn/01d.png" alt="Image_icon"> -->
+        </div>
+        <div class="description"></div>
+        <div class="temperature"></div>
+        <div class="details">
+            <!-- <div>Feels Like : 12</div>
+            <div>Humanity : 12%</div>
+            <div>Wind Speed :12 m/s</div> -->
+        </div>
+    </div>
+    </div>
+    <script src="/Weather_Layout.js"></script>
+</body>
+</html>

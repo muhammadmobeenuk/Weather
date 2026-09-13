@@ -157,6 +157,18 @@ Host your weather app for free on GitHub Pages:
 
 </div>
 
+---
+
+## 📄 License
+
+<div align="center">
+
+This project is licensed under the **[MIT License](LICENSE)**.
+
+You are free to use, modify, distribute, and build upon this project for both personal and commercial purposes.
+
+</div>
+
 <br />
 
 ---

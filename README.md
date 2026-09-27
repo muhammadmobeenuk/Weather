@@ -1,7 +1,7 @@
 <div align="center">
 
   <br />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sun%20Behind%20Cloud.png" alt="Aether Weather Logo" width="120" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sun%20Behind%20Cloud.png" alt="Weather" width="120" />
   
   # 🌤️ AETHER WEATHER
   ### *Real-Time Atmospheric Intelligence & Bioluminescent Design*

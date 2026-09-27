@@ -105,21 +105,35 @@ npx serve .
 
 ---
 
-## 🌐 One-Click GitHub Pages Deployment
+## 🌐 Hosting & Deployment
 
-Host your weather app for free on GitHub Pages:
+Host your weather app for free. Since it's a static site, you can deploy it instantly:
 
-1. **Commit & Push** your changes:
-   ```bash
-   git add .
-   git commit -m "feat: upgrade to modern Aether Weather layout"
-   git push origin main
-   ```
-2. In your GitHub repository:
-   - Go to **Settings** > **Pages**.
-   - Under **Build and deployment**, set the source to **Deploy from a branch**.
-   - Choose the `main` branch and `/ (root)` directory, then click **Save**.
-3. Your app is now live worldwide! 🎉
+### GitHub Pages (Built-in)
+1. Go to your repository **Settings** > **Pages**.
+2. Under **Build and deployment**, set the source to **Deploy from a branch**.
+3. Choose the `main` branch and `/ (root)` directory, then click **Save**.
+4. Your app is now live! 🎉
+
+### Vercel / Netlify
+1. Sign up for [Vercel](https://vercel.com/) or [Netlify](https://netlify.com/).
+2. Create a "New Project" and connect your GitHub account.
+3. Select your repository (or fork). No build commands or configurations are needed.
+4. Click **Deploy**!
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions! Whether it's adding new features, fixing bugs, or improving documentation, your help is appreciated.
+
+1. **Fork** the project and clone it locally.
+2. **Create a branch** for your feature (`git checkout -b feature/AmazingFeature`).
+3. **Commit** your changes (`git commit -m 'feat: Add some AmazingFeature'`).
+4. **Push** to the branch (`git push origin feature/AmazingFeature`).
+5. **Open a Pull Request** to the `main` branch.
+
+Want to test your changes live? You can easily host your fork using the deployment methods above! Check out our [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
 
 ---
 

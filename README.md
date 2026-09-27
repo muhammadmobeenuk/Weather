@@ -3,7 +3,7 @@
   <br />
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sun%20Behind%20Cloud.png" alt="Weather" width="120" />
   
-  # 🌤️ AETHER WEATHER
+  # 🌤️ WEATHER
   ### *Real-Time Atmospheric Intelligence & Bioluminescent Design*
 
   <p align="center">
@@ -11,8 +11,6 @@
   </p>
 
   <p align="center">
-    <a href="https://github.com/Mobeen-2024/Weather-Layout/stargazers"><img src="https://img.shields.io/github/stars/Mobeen-2024/Weather-Layout?style=for-the-badge&color=facc15" alt="Stars Badge"/></a>
-    <a href="https://github.com/Mobeen-2024/Weather-Layout/network/members"><img src="https://img.shields.io/github/forks/Mobeen-2024/Weather-Layout?style=for-the-badge&color=38bdf8" alt="Forks Badge"/></a>
     <a href="https://github.com/Mobeen-2024/Weather-Layout/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-10b981?style=for-the-badge" alt="License Badge"/></a>
     <a href="https://open-meteo.com/"><img src="https://img.shields.io/badge/API-Open--Meteo%20(No%20Key)-0284c7?style=for-the-badge" alt="API Badge"/></a>
   </p>
